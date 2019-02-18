@@ -1,0 +1,10 @@
+body{
+	background-image: url(4.jpg);
+}
+.content {
+	color: white;
+}
+
+.content h1 {
+	border-bottom: 5px solid white;
+}
